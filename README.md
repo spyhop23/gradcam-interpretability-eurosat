@@ -12,6 +12,7 @@ Journal of Artificial Intelligence Research and Applications, Vol. 2, No. 1, 202
 ---
 
 ## Paper
+- [Download PDF](./paper.pdf)
 - Official publication:  
   https://www.e-jara.org/journal/view.html?pn=current_issue&uid=1534&vmd=Full
 

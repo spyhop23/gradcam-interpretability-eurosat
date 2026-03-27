@@ -38,7 +38,7 @@ Rather than relying solely on classification accuracy, the research evaluates ex
 ---
 
 ## Keywords
-Deep Learning, Grad-CAM, Explainable AI, Interpretability, , Satellite Imagery
+Deep Learning, Grad-CAM, Explainable AI, Interpretability, Satellite Imagery
 
 ---
 
